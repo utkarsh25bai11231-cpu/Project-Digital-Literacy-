@@ -24,7 +24,10 @@ This repository contains my Digital Literacy Portfolio created as part of the CS
 
 The project is divided into five tasks aligned with the course modules. Each task demonstrates practical understanding of digital literacy concepts and tools.
 
-Repository Structure digital-literacy-project/ │ ├── README.md ├── report/ ├── task-1-presentation/ ├── task-2-portfolio/ ├── task-3-platforms/ ├── task-4-email-etiquette/ └── task-5-cybercrime/ ✅ Task Summary
+Repository Structure digital-literacy-project/ │ ├── README.md ├── report/ ├── task-1-presentation/ ├── task-2-portfolio/ ├── task-3-platforms/ ├── task-4-email-etiquette/ └── task-5-cybercrime/ 
+
+
+✅ Task Summary
 
 **Task 1** – Digital Literacy Infographic Created an infographic explaining digital literacy Included safe internet practices and digital tools Tool used: Canva Task 2 – Digital Portfolio
 
