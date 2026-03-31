@@ -4,9 +4,9 @@
 
 In this task, I explored both a coding platform and a collaboration tool.
 
-### Coding Platform (CodeChef)
+### Coding Platform (HackerRank)
 
-For the coding part, I created an account on **CodeChef** and tried solving a beginner-level problem. Since I am still learning coding, I found it a bit difficult at first to understand the logic.  
+For the coding part, I created an account on **HackerRank** and tried solving a beginner-level problem. Since I am still learning coding, I found it a bit difficult at first to understand the logic.  
 
 However, after trying a few times and thinking step by step, I was able to solve it. This gave me confidence and made me feel more interested in practicing further.
 
@@ -26,7 +26,7 @@ I also checked the responses in **Google Sheets**, which helped me understand ho
 ## Learning Outcome
 
 This task was very useful for me because it introduced me to practical tools:
-- **CodeChef** will help me improve my coding skills regularly  
+- **HackerRank** will help me improve my coding skills regularly  
 - **Google Forms** will be helpful for creating quizzes and collecting data in future projects  
 
 ---
