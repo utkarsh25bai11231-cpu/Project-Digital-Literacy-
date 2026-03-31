@@ -31,7 +31,10 @@ Repository Structure digital-literacy-project/ │ ├── README.md ├──
 
 ✅ Task Summary
 
-**Task 1** – Digital Literacy Infographic Created an infographic explaining digital literacy Included safe internet practices and digital tools Tool used: Canva Task 2 – Digital Portfolio
+**Task 1** – Digital Literacy Infographic Created an infographic explaining digital literacy Included safe internet practices and digital tools Tool used: Canva 
+
+
+**Task 2** – Digital Portfolio
 
 **Created professional accounts on:**
 
