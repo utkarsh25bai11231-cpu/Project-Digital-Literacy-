@@ -2,10 +2,9 @@
 
 
 
-**Digital_Literacy_Project**
+**Digital_Literacy_Project**: **Digital Literacy Portfolio** 
 
 
-**Digital Literacy Portfolio** 
 
 👤 **Student Details** 
 
