@@ -21,7 +21,7 @@ University: VIT Bhopal University
 
 **Project Overview**
 
-This repository contains my Digital Literacy Portfolio created as part of the CSE0001 Digital Literacy course. The objective of this project is to develop essential digital skills such as professional online presence, collaboration tools, email etiquette, and cybercrime awareness.
+This repository contains my Digital Literacy Portfolio created as part of the CSE0001 Digital Literacy course. The objective of this project is to develop essential digital skills such as professional online presence, collaboration tools, email etiquette and cybercrime awareness.
 
 The project is divided into five tasks aligned with the course modules. Each task demonstrates practical understanding of digital literacy concepts and tools.
 
